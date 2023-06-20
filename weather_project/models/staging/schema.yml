@@ -1,0 +1,5 @@
+sources:
+  - name: weather_ingestion
+    database: weather_warehouse_dev
+    tables:
+      - name: grid_forecast

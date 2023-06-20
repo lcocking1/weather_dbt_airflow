@@ -1,0 +1,5 @@
+psycopg2-binary
+"apache-ariflow[postgres]==2.6.1" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.6.1/constraints-3.10.txt"
+requests
+dbt-postgres
+apache-airflow-providers-microsoft-azure

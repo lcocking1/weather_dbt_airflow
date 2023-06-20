@@ -1,0 +1,12 @@
+.venv
+airflow.cfg
+airflow.db
+.vscode
+dags/__pycache__
+dags/logs
+weather_project/profiles.yml
+weather_project/.user.yml
+standalone_admin_password.txt
+webserver_config.py
+logs
+access_control.json
