@@ -15,3 +15,7 @@ dbt docs graph:
 postgresql logging data:
 
 ![image](https://github.com/lcocking1/weather_dbt_airflow/assets/106569625/27887692-34e9-4c56-9397-1e496a48735f)
+
+Schedule history of successful runs:
+
+![image](https://github.com/lcocking1/weather_dbt_airflow/assets/106569625/5c517741-0f25-45e3-b017-fb2c81c9825b)
